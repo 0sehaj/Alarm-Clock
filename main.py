@@ -1,5 +1,5 @@
-#ALARM CLOCK
-#author: Sehajleen Kaur
+#Alarm Clock
+#author: Sehaj
 
 #import all the modules  needed
 from tkinter import *
